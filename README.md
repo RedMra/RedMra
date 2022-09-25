@@ -5,7 +5,7 @@
 
 Biotechnology Engineer.
 
-- 🌱 I’m currently learning Bioinformatics and, Python.
+- 🌱 I’m currently learning Bioinformatics and Python.
 
 ## My technologies
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logoColor=FFFFFF&logo=Python&label=)
