@@ -10,6 +10,12 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=235733&logoColor=FFFFFF&logo=microsoft+excel&label=)
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logoColor=FFFFFF&logo=latex&label=)
+![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logoColor=FFFFFF&logo=R&label=)
+![COBRA Toolbox](https://img.shields.io/static/v1?style=for-the-badge&message=COBRA+Toolbox&color=000000&logoColor=FFFFFF&logo=cobra&label=)
+![Bioconductor](https://img.shields.io/static/v1?style=for-the-badge&message=Bioconductor&color=339933&logoColor=FFFFFF&logo=Bioconductor&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logoColor=000000&logo=Linux&label=)
+
+
 
 ## My Github Public Stats
 [![RedMra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedMra&count_private=true)](https://github.com/RedMra)
