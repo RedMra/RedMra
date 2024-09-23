@@ -13,9 +13,13 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 ![COBRA Toolbox](https://img.shields.io/static/v1?style=for-the-badge&message=COBRA+Toolbox&color=000000&logoColor=FFFFFF&logo=cobra&label=)
 ![Bioconductor](https://img.shields.io/static/v1?style=for-the-badge&message=Bioconductor&color=339933&logoColor=FFFFFF&logo=Bioconductor&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logoColor=000000&logo=Linux&label=)
+![Snakemake](https://img.shields.io/static/v1?style=for-the-badge&message=Snakemake&color=5c3c92&logoColor=FFFFFF&label=)
+
 
 
 ## My Github Public Stats
 [![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact)](https://github.com/RedMra)
-## GitHub Stats
-![RedMra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedMra&show_icons=true&theme=radical)
+
+## Featured Projects
+- 🔬 [RNA-seq Analysis Pipeline](https://github.com/RedMra/RNAseq-pipeline) – A pipeline for RNA sequencing analysis using Nextflow and Seurat.
+- 🧬 [Genome Annotation](https://github.com/RedMra/genome-annotation) – Tools for annotating genomes with Nextflow.
