@@ -7,7 +7,6 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 
 ## My technologies
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logoColor=FFFFFF&logo=Python&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logoColor=FFFFFF&logo=latex&label=)
 ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logoColor=FFFFFF&logo=R&label=)
 ![COBRA Toolbox](https://img.shields.io/static/v1?style=for-the-badge&message=COBRA+Toolbox&color=000000&logoColor=FFFFFF&logo=cobra&label=)
@@ -18,7 +17,9 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 
 
 ## My Github Public Stats
-[![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact)](https://github.com/RedMra)
+
+[![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact&cache_seconds=86400)](https://github.com/RedMra)
+
 
 ## Featured Projects
 - 🔬 [RNA-seq Analysis Pipeline](https://github.com/RedMra/RNAseq-pipeline) – A pipeline for RNA sequencing analysis using Nextflow and Seurat.
