@@ -15,11 +15,8 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 ![Snakemake](https://img.shields.io/static/v1?style=for-the-badge&message=Snakemake&color=5c3c92&logoColor=FFFFFF&label=)
 
 
-
 ## My Github Public Stats
-
-[![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact&cache_seconds=86400)](https://github.com/RedMra)
-
+[![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact)](https://github.com/RedMra)
 
 ## Featured Projects
 - 🔬 [RNA-seq Analysis Pipeline](https://github.com/RedMra/RNAseq-pipeline) – A pipeline for RNA sequencing analysis using Nextflow and Seurat.
