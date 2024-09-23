@@ -17,3 +17,5 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 
 ## My Github Public Stats
 [![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact)](https://github.com/RedMra)
+## GitHub Stats
+![RedMra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedMra&show_icons=true&theme=radical)
