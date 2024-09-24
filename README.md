@@ -12,7 +12,7 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 ![COBRA Toolbox](https://img.shields.io/static/v1?style=for-the-badge&message=COBRA+Toolbox&color=000000&logoColor=FFFFFF&logo=cobra&label=)
 ![Bioconductor](https://img.shields.io/static/v1?style=for-the-badge&message=Bioconductor&color=339933&logoColor=FFFFFF&logo=Bioconductor&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logoColor=000000&logo=Linux&label=)
-![Snakemake](https://img.shields.io/static/v1?style=for-the-badge&message=Snakemake&color=5c3c92&logoColor=FFFFFF&label=)
+
 
 
 ## My Github Public Stats
