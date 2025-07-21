@@ -20,6 +20,8 @@ Biotechnology Engineer. - 🌱  Bioinformatician
 ## My Github Public Stats
 [![RedMra's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&show_icons=true&layout=compact)](https://github.com/RedMra)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMra&layout=compact&theme=tokyonight)](https://github.com/RedMra)
+
 
 ## Featured Projects
 - 🔬 [RNA-seq Analysis Pipeline](https://github.com/RedMra/RNAseq-pipeline) – A pipeline for RNA sequencing analysis using Nextflow and Seurat.
